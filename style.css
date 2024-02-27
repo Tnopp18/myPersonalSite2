@@ -105,3 +105,19 @@ p {
     border-radius: 15%;
     padding: 50px;
 }
+
+section {
+    flex-direction: row;
+    justify-content: center;
+    display: flex;
+}
+
+section > img {
+    width:300px;
+    height: 400px;
+    margin:auto;
+    border: black;
+    display: flex;
+    padding-top: 100;
+
+}
