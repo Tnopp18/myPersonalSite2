@@ -12,7 +12,7 @@ h1 {
     max-width: 100%;
     border-style: groove;
     box-shadow: 0 0 15px 0 white;
-    margin-top: 12%; 
+    margin-top: 10%; 
     max-width: 100%; 
     width: 99.7%;
 }
@@ -93,4 +93,15 @@ main {
     color:black;
     text-align: center;
     font-size: xx-large;
+    margin-bottom: 5%;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+p {
+    background-color:aliceblue;
+    border-radius: 15%;
+    padding: 50px;
 }
