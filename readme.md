@@ -1,0 +1,1 @@
+This is a personal website assignment about my dog because i have more photos of her than me XD
