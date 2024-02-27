@@ -24,7 +24,7 @@ nav {
     display: flex;
     box-shadow: 0 0 15px 0 white;
     border-style: double;
-    position: sticky;
+    position:fixed;
     color: antiquewhite;
     text-align: center;
     font-size: 30px;
@@ -73,7 +73,7 @@ footer {
     display: flex;
     box-shadow: 0 0 15px 0 white;
     border-style: double;
-    position: fixed;
+    /* position: fixed; */
     bottom:0px;
     left:0px;
     right:0px;
@@ -93,7 +93,7 @@ main {
     color:black;
     text-align: center;
     font-size: xx-large;
-    margin-bottom: 5%;
+    margin-bottom: -50px;
 }
 
 h2 {
@@ -120,4 +120,8 @@ section > img {
     display: flex;
     padding-top: 100;
 
+}
+
+footer {
+    text-align: center;
 }
