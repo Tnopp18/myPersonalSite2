@@ -10,17 +10,22 @@ h1 {
     background-color: #05445E;
     max-width: 100%;
     border-style: groove;
-    box-shadow: 0 0 15px 0 white;
-    margin-top: 4.8%; 
+    box-shadow: 0 0 15px 0 white; 
     max-width: 100%; 
     width: 99.7%;
+    color: antiquewhite;
+    margin-top: 125px;
+    
+    
     
 }
+
+
 
 nav {
     background-color: #05445E;
     height:6%;
-    padding: .8%;
+    padding: 20px;
     display: flex;
     box-shadow: 0 0 15px 0 white;
     border-style: double;
@@ -29,7 +34,6 @@ nav {
     font-size: 2vw;
     align-items: center;
     justify-content: center;
-    display: flex;
     position:fixed;
     left:0px;
     right:0px;
@@ -61,6 +65,7 @@ main {
     min-height: 100%;
     margin-left: 15%;
     margin-right: 15%;
+    margin-top: -1%;
 
 } 
 body {
@@ -94,7 +99,7 @@ main > img {
 main {
     color:black;
     text-align: center;
-    font-size: xx-large;
+    font-size: 75%vw;
     margin-bottom: -50px;
 }
 
@@ -127,3 +132,4 @@ section > img {
 footer {
     text-align: center;
 }
+
